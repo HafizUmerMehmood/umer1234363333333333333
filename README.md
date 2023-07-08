@@ -1,4 +1,4 @@
-- 👋 Hi, I’Umer
+- 👋 Hi, I’m Umer
 - 👀 I’m interested in Web Development ,i am eager to deploy me concepts in ML , AI
 - 🌱 I’m currently learning Deep Learning with python using Tensorflow
 - 💞️ I’m looking to collaborate on other platforms to polish my skils.
